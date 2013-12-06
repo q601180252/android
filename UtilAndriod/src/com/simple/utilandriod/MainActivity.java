@@ -1,4 +1,6 @@
-package com.example.utilandriod;
+package com.simple.utilandriod;
+
+import com.example.utilandriod.R;
 
 import android.os.Bundle;
 import android.app.Activity;
